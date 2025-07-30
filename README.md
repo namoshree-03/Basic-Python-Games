@@ -2,10 +2,10 @@
 A collection of beginner-friendly Python games built using core programming concepts. These projects helped me strengthen my logic-building and Python syntax understanding.
 
 ## 🕹️ Games Included
-- **FLAMES** – A fun relationship prediction game based on names.
-- **Rock Paper Scissors** – Classic player vs. computer game.
 - **Cow & Bulls** – A number guessing logic game.
+- **FLAMES** – A fun relationship prediction game based on names.
 - **Mastermind** – A simple color/number guessing game clone.
+- **Rock Paper Scissors** – Classic player vs. computer game.
 
 ## 📌 Skills Used
 - Python functions and loops
